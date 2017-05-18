@@ -1,6 +1,6 @@
 # Site
 title:              Juhi Singh
-bio:                'I am filled with Awesomeness'
+bio:                'Hi! I am Juhi. I like doing cool stuff with data'
 description:        "I like Pav Bhaji"
 reading_time:       true
 words_per_minute:   200
@@ -37,7 +37,7 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              mail@singhjuhi.com
 twitter:            juhisingh41
 # facebook:           username
 github-url:         jsingh41
