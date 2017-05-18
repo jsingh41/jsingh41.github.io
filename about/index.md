@@ -6,19 +6,18 @@ date: 2016-03-21
 comments: false
 ---
     
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center> Juhi Singh is awesome </center>
 
 ## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+* Juhi Singh consists of awesomeness
+* Juhi Singh has very soft skin
+* Juhi Singh can sing Japanese songs
+* Juhi Singh cooks good food
+* Juhi Singh can eat almost anything
+* Juhi Singh loves data
+* Juhi Singh loves making fart jokes
+* Juhi Singh has a very high IQ
+* Juhi Singh is very shaani
 
 ## Preview
 
