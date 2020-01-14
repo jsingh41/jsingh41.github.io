@@ -1,9 +1,10 @@
 ---
 layout: post
 title:  "Paradox of Choice"
-author: jsingh41
+author: Juhi
 categories: [ Jekyll, tutorial ]
 image: assets/images/joshua-coleman-_yVRLC75Ma8-unsplash.jpg
+caption: "Photo by JOSHUA COLEMAN on Unsplash"
 ---
 Paradox of Choice is a book, by Barry Schwartz as the name suggests, is a book about how the abundance of choice available to us today is more detrimental to our well being than liberating. We think  more choice equals more freedom, and more satisfaction, but is that really the case?
 This book draws closely with the others in its genre, Thinking Fast and Slow, Predictably Irrational (or whatever that book was). This book draws heavily from Thinking Fast and Slow (more about it below) These books look into the psychology of why people behave the way they do, and if the direction in which the world is heading right now is to maximize for human happiness and productivity, or whose agenda are we trying to push here?
