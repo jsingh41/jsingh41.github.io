@@ -8,18 +8,16 @@ comments: true
 <div class="row justify-content-between">
 <div class="col-md-8 pr-5">
 
-<p>This website is built with Jekyll and Mediumish template for Jekyll. It's for demonstration purposes, no real content can be found. Mediumish template for Jekyll is compatible with Github pages, in fact even this demo is created with Github Pages and hosted with Github.</p>
-
-Yolo this is a commit from webui. 
+<p>This needs to be updated</p>
 
 <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Documentation</h4>
+<h4>Header Template</h4>
 
-<p>Please, read the docs <a href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/">here</a>.</p>
+<p>Back to Home <a href="http://www.singhjuhi.com/">here</a>.</p>
 
-<h4>Questions or bug reports?</h4>
+<h4>Contact Me</h4>
 
-<p>Head over to our <a href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Github repository</a>!</p>
+<p>Why Would You? <a href="https://www.singhjuhi.com/">Github repository</a>!</p>
 
 </div>
 
@@ -28,9 +26,9 @@ Yolo this is a commit from webui.
 <div class="sticky-top sticky-top-80">
 <h5>Buy me a coffee</h5>
 
-<p>Thank you for your support! Your donation helps me to maintain and improve <a target="_blank" href="https://github.com/wowthemesnet/mediumish-theme-jekyll">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Because I love drinking coffee! <a target="_blank" href="https://www.singhjuhi.com/">Mediumish <i class="fab fa-github"></i></a>.</p>
 
-<a target="_blank" href="https://www.wowthemes.net/donate/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-warning">Documentation</a>
 
 </div>
 </div>
