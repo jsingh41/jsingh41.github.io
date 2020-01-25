@@ -2,7 +2,7 @@
 layout: post
 title:  "The Honest Truth About Dishonesty"
 author: juhi
-categories: [ Jekyll, tutorial ]
+categories: [ books, tutorial ]
 image: assets/images/1.jpg
 ---
 
