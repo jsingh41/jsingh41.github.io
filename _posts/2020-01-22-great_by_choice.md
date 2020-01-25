@@ -2,7 +2,7 @@
 layout: post
 title:  "Great By Choice"
 author: juhi
-categories: [ Jekyll, tutorial ]
+categories: [ Books, tutorial ]
 image: assets/images/10.jpg
 featured: true
 ---
