@@ -2,7 +2,7 @@
 layout: post
 title:  "Paradox of Choice"
 author: Juhi
-categories: [ Jekyll, tutorial ]
+categories: [ books, tutorial ]
 image: assets/images/joshua-coleman-_yVRLC75Ma8-unsplash.jpg
 caption: "Photo by JOSHUA COLEMAN on Unsplash"
 ---
