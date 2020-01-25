@@ -2,7 +2,7 @@
 layout: post
 title:  "Women Who Trie"
 author: juhi
-categories: [ Jekyll, tutorial ]
+categories: [ books, tutorial ]
 image: assets/images/10.jpg
 ---
 
