@@ -2,7 +2,7 @@
 layout: post
 title:  "Great By Choice"
 author: juhi
-categories: [ Books, tutorial ]
+categories: [ books, tutorial ]
 image: assets/images/10.jpg
 featured: true
 ---
