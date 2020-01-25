@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't Make Me Think"
 author: juhi
-categories: [ Jekyll, tutorial ]
+categories: [ books, tutorial ]
 image: assets/images/7.jpg
 ---
 
