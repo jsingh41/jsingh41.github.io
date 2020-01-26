@@ -3,7 +3,7 @@ layout: post
 title:  "Managing Oneself"
 author: juhi
 categories: [ Jekyll, tutorial ]
-image: assets/images/04.jpg
+image: assets/images/05.jpg
 featured: true
 ---
 
