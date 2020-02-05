@@ -24,11 +24,11 @@ comments: true
 <div class="col-md-4">
 
 <div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+<h5>World Travel</h5>
 
-<p>Because I love drinking coffee! <a target="_blank" href="https://www.singhjuhi.com/">Mediumish <i class="fab fa-github"></i></a>.</p>
+<p>Checkout the places I've been to! <!--a target="_blank" href="https://www.singhjuhi.com/">Mediumish <i class="fab fa-github"></i></a--></p>
 
-<a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-warning">Documentation</a>
+<a target="_blank" href="https://www.singhjuhi.com/world_travel" class="btn btn-danger">World Travel</a> <!--a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-warning">Documentation</a-->
 
 </div>
 </div>
