@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Outdoors
 permalink: /outdoors
 comments: true
 ---
