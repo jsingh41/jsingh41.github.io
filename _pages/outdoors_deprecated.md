@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Outdoors
-permalink: /outdoors
+permalink: /outdoors_deprecated
 comments: true
 ---
 
