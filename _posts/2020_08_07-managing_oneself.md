@@ -3,7 +3,7 @@ layout: post
 title:  "Managing Oneself"
 author: Juhi
 categories: [ books, tutorial ]
-image: assets/images/joshua-coleman-_yVRLC75Ma8-unsplash.jpg
+image: assets/images/managing_oneself.jpg
 ---
 What are my Strengths?
 Most people don’t really know what they are good at, and what they are not good at. One cannot build performance on weaknesses. Success in the knowledge economy comes to those who know themselves - their strengths, their values, and how they perform. The only way to discover your strengths is through feedback analysis
