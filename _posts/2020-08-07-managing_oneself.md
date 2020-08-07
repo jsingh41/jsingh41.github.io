@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Managing Oneself"
-author: Juhi
+author: juhi
 categories: [ books, tutorial ]
 image: assets/images/managing_onself.jpg
 ---
