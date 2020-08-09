@@ -1,0 +1,48 @@
+---
+layout: post
+title:  "Books Read in 2018"
+author: juhi
+categories: [ reading list]
+image: assets/images/books_read_in_2018.png
+featured: true
+---
+
+Here is a non exhaustive list of books read in 2018
+
+* Capitalism, Paul Bowles
+* Lean In, Sheryl Sandberg
+* Thinking Fast and Slow, Daniel Kahneman
+* When Breath Becomes Air, Paul Kalanithi
+* Flowers for Algernon, Daniel Keyes
+* How to Win Friends and Influence People, Dale Carnegie
+* Leaders Eat Last, Simon Sinek
+* Never Eat Alone, Keith Ferrazzi
+* How to Be Heard, Julian Treasure
+* Start With Why, Simon Sinek
+* The Power of Now, Ekhart Tolle
+* How Not to Die, Michael Greener
+* The Noonday Demon, Andrew Solomon
+* Elon Musk, Ashlee Vance
+* Training for the New Alpinism, Steve House
+* Great By Choice, Jim Collins
+* The Subtle Art of Not Giving a Fuck, Mark Manson
+* Buffet: The Making of an American Capitalist, Roger Lowenstein
+* Into Thin Air, Jon Krakauer
+* The Tipping Point, Malcolm Gladwell
+* Meditations, Marcus Aurelius
+* Never Split the Difference, Chris Voss
+* What I Talk About When I Talk About Running, Haruki Murakami
+* Milk and Honey, Rupi Kaur
+* Quiet, Susan Cain
+* Living with a Seal, Jesse Itzler
+* The Radium Girls, Kate Moore
+* The Honest Truth About Dishonesty, Dan Ariely
+* Women Who Tri, Alicia Difabio
+* The Most Good You Can Do, Peter Singer
+* Army of None, Paul Scharre
+* A Short History of Nearly Everything, Bill Bryson
+* The Design of Everyday Things, Donald A. Norman
+* How To Win Friends and Influence People, Dale Carnegie
+* The 7 Habits of Highly Effective People, Stephen R. Corey
+* Zen and the Art of Happiness, Chris Prentiss
+* Mindfulness, Mark Williams and Danny Penman
