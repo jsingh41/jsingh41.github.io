@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Mediumish Template for Jekyll
+title: Juhi Singh
 permalink: /about
-comments: true
+
 ---
 
 <div class="row justify-content-between">
@@ -10,7 +10,7 @@ comments: true
 
 <p>This needs to be updated</p>
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
+-- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Header Template</h4>
 
 <p>Back to Home <a href="http://www.singhjuhi.com/">here</a>.</p>
