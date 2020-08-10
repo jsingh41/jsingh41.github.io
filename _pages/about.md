@@ -10,7 +10,6 @@ permalink: /about
 
 <p>This needs to be updated</p>
 
--- <p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
 <h4>Header Template</h4>
 
 <p>Back to Home <a href="http://www.singhjuhi.com/">here</a>.</p>
