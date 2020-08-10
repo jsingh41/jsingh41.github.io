@@ -23,9 +23,9 @@ permalink: /about
                 <li>
                   <div class="content">
                     <h4>
-                      <time>Bachelors in Mathematics and Business</time>
+                      <time>Bachelors in Civil Engineering and Masters in Economics</time>
                     </h4>
-                    <p><b>Baylor University 2017</b></p>
+                    <p><b>BITS Pilani 2014</b></p>
                     <p><b>GPA:</b> 3.86 (On a scale of 4.00)</p>
                   </div>
                 </li>
@@ -33,60 +33,43 @@ permalink: /about
                   <div class="content">
                     <img class="img-fluid mx-auto d-block mb-30" src="img/about/c-logo.png" alt="">
                     <h4>
-                      <time>Business Analyst</time>
+                      <time>Market Risk Analyst</time>
                     </h4>
-                            <p><b>DXC Technology</b></p>
-                    <p>November 2017 - March 2018</p>
+                            <p><b>Credit Suisse</b></p>
+                    <p>May 2013 - June 2015</p>
                   </div>
                 </li>
                 <li>
                   <div class="content">
                     <h4>
-                      <time>Masters in Computer Science</time>
+                      <time>Masters in Finance</time>
                     </h4>
-                    <p><b>University of Texas at Dallas</b></p>
-                    <p>August 2018 - Dec 2020</p>
+                    <p><b>Massachussetts Institute of Technology</b></p>
+                    <p>July 2015 - June 2016</p>
                   </div>
                 </li>
                     <li>
                      <div class="content">
                          <h4>
-                             <time>Freelance Data Scientist</time>
+                             <time>Data Engineer</time>
                          </h4>
-                         <p><b>UpWork</b></p>
-                         <p>November 2018 - Sep 2019</p>
+                         <p><b>Coursera</b></p>
+                         <p>July 2016 - March 2019</p>
                      </div>
                  </li>
                  <li>
                      <div class="content">
                          <h4>
-                             <time>Data Science Instructional Associate</time>
+                             <time>Data Scientist</time>
                          </h4>
-                         <p><b>General Assembly</b></p>
-                         <p>March 2019 - July 2019</p>
-                     </div>
-                 </li>
-                 <li>
-                     <div class="content">
-                         <h4>
-                             <time>Data Science Intern</time>
-                         </h4>
-                         <p><b>Sprint - Billing Systems</b></p>
-                         <p>May 2019 - Nov 2019</p>
+                         <p><b>Coursera</b></p>
+                         <p>March 2019 - Present</p>
                      </div>
                  </li>
          <li>
-                     <div class="content">
-                         <h4>
-                             <time>Data Process Manager</time>
-                         </h4>
-                         <p><b>Capital One</b></p>
-                         <p>April 2020 - Present</p>
-                     </div>
                  </li>
               </ul>
             </section>
-            <hr id="FAQ">
 
 
             <!-- End timeline Area -->
