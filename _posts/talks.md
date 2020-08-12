@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Conference Talks"
+author: juhi
+image: assets/images/looker_join_2018.png
+featured: true
+---
+
+Talks given in the past
+
+* [Bringing Data Services to Millions, Part I](https://medium.com/coursera-engineering/building-data-services-to-bring-education-to-millions-part-i-2222647aae28)
+* [Bringing Data Services to Millions, Part II](https://medium.com/coursera-engineering/building-data-services-to-bring-education-to-millions-part-ii-38bd3b2e93b3)
+* Looker Join 2017
+* [The Value of a Flexible Data Platform](https://www.youtube.com/watch?&v=7suQVytb3aQ&feature=emb_logo), Looker Panel 2018
+* [Hidden Wins in Data Engineering](https://docs.google.com/presentation/d/1gfHfqbpf7iAO0Tk7uj0dXseyGnH9LC2UWjuhKY5ZkHQ/edit), Global Data Conference 2018
+* [How I Got Into MIT](https://www.youtube.com/watch?v=jSq7uMEYQeU), July 2020
+* [How to Become a Data Scientist](https://www.youtube.com/watch?v=rS8PKuQ_drg), July 2020
+
