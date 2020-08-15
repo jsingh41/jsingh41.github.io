@@ -3,7 +3,7 @@ layout: post
 title:  "Discipline Equals Freedom"
 author: juhi
 categories: [ books ]
-image: assets/images/discpline_equals_freedom.jpg
+image: assets/images/discipline_equals_freedom.jpg
 ---
 This book is a quick upper-fixer for motivation. This book is a quick read, relatively simply to understand.
 The ONE thing that I want to drill into me is: It is not motivation that counts, it is discipline.
