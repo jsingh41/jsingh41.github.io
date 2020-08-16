@@ -2,7 +2,7 @@
 layout: post
 title:  "How I Got into MIT"
 author: juhi
-categories: [ Jekyll, tutorial ]
+categories: [ life ]
 image: assets/images/7.jpg
 ---
 
