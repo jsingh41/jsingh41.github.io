@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Mountains and I"
+title:  "Mountains and Me"
 author: Juhi
-categories: [ Jekyll, tutorial ]
+categories: [ outdoors ]
 image: assets/images/eberhard-grossgasteiger-eZF9nZKBev8-unsplash.jpg
 ---
 
