@@ -2,34 +2,24 @@
 layout: page
 title: All Posts
 permalink: /posts
-comments: true
 ---
 
-<div class="row justify-content-between">
-<div class="col-md-8 pr-5">
+<section class="recent-posts">
 
-<p>This needs to be updated</p>
+  <div class="section-title">
 
-<p class="mb-5"><img class="shadow-lg" src="{{site.baseurl}}/assets/images/mediumish-jekyll-template.png" alt="jekyll template mediumish" /></p>
-<h4>Header Template</h4>
+    <h2><span>All Stories</span></h2>
 
-<p>Back to Home <a href="http://www.singhjuhi.com/">here</a>.</p>
+  </div>
 
-<h4>Contact Me</h4>
+  <div class="row listrecent">
 
-<p>Why Would You? <a href="https://www.singhjuhi.com/">Github repository</a>!</p>
+    {% for post in paginator.posts %}
 
-</div>
+    {% include postbox.html %}
 
-<div class="col-md-4">
+    {% endfor %}
 
-<div class="sticky-top sticky-top-80">
-<h5>Buy me a coffee</h5>
+  </div>
 
-<p>Because I love drinking coffee! <a target="_blank" href="https://www.singhjuhi.com/">Mediumish <i class="fab fa-github"></i></a>.</p>
-
-<a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-danger">Buy me a coffee</a> <a target="_blank" href="https://www.singhjuhi.com/" class="btn btn-warning">Documentation</a>
-
-</div>
-</div>
-</div>
+</section>
