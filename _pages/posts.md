@@ -4,22 +4,12 @@ title: All Posts
 permalink: /posts
 ---
 
-<section class="recent-posts">
+<div class="row listrecent">
 
-  <div class="section-title">
+  {% for post in paginator.posts %}
 
-    <h2><span>All Stories</span></h2>
+  {% include postbox.html %}
 
-  </div>
+  {% endfor %}
 
-  <div class="row listrecent">
-
-    {% for post in paginator.posts %}
-
-    {% include postbox.html %}
-
-    {% endfor %}
-
-  </div>
-
-</section>
+</div>
