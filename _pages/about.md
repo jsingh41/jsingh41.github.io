@@ -73,18 +73,3 @@ permalink: /about
 
 
             <!-- End timeline Area -->
-
-<h4>Header Template</h4>
-
-<p>Back to Home <a href="http://www.singhjuhi.com/">here</a>.</p>
-
-<h4>Contact Me</h4>
-
-<p>Why Would You? <a href="https://www.singhjuhi.com/">Github repository</a>!</p>
-
-</div>
-
-<div class="col-md-4">
-
-</div>
-</div>
