@@ -66,8 +66,6 @@ permalink: /about
                          <p>March 2019 - Present</p>
                      </div>
                  </li>
-         <li>
-                 </li>
               </ul>
             </section>
 
