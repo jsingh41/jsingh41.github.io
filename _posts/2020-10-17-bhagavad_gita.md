@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  The Bhagavad Gita: A Biography
+title:  "The Bhagavad Gita: A Biography"
 author: juhi
 categories: [ books, digital ]
 image: assets/images/bhagavad_gita.jpg
