@@ -5,7 +5,7 @@ author: juhi
 categories: [ books, excerpts, self-help, leadership, psychology  ]
 image: assets/images/discipline_equals_freedom.jpg
 ---
-This book is a quick upper-fixer for motivation. This book is a quick read, relatively simply to understand.
+[Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom) is a quick upper-fixer for motivation. This book is a quick read, relatively simply to understand.
 The ONE thing that I want to drill into me is: It is not motivation that counts, it is discipline.
 * Don’t expect to be motivated every day to get out there and make things happen. You won’t be. Don’t count on motivation. Count on Discipline
 * No more accepting the shortfalls of my own will. No more taking the easy road. No more bowing down to whatever unhealthy or unproductive thoughts float through my mind.
