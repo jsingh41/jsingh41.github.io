@@ -2,7 +2,7 @@
 layout: post
 title:  "Principles"
 author: juhi
-categories: [ books ]
+categories: [ books, excerpts, self-help, leadership, business, philosophy ]
 image: assets/images/principles.jpg
 featured: true
 ---
