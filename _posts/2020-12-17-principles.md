@@ -3,7 +3,7 @@ layout: post
 title:  "Principles"
 author: juhi
 categories: [ books ]
-image: assets/images/3.jpg
+image: assets/images/principles.jpg
 ---
 I remember hearing about the book [Principles](https://www.goodreads.com/book/show/34536488-principles) during my time at MIT, as it was written by one of the coolest people in Finance, [Ray Dalio] (https://en.wikipedia.org/wiki/Ray_Dalio). I heard about it again at work, and decided to give it a read. This is one of those book where you can tell in the first couple of pages that the person who wrote this book is a really smart person.  This book is one of those that leave a deep impact no matter what phase of life you're in.
 
