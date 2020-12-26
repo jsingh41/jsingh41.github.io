@@ -7,7 +7,7 @@ image: assets/images/digital_minimalism.jpg
 featured: true
 ---
 
-I am a huge fan of Cal Newport, and this was the third book that I read (after Deep Work and So Good They Can't Ignore You). What I like about this book is the prescriptive approach towards reducing digital noise.
+I am a huge fan of Cal Newport, and this was the [third book](https://www.goodreads.com/book/show/40672036-digital-minimalism) that I read (after Deep Work and So Good They Can't Ignore You). What I like about this book is the prescriptive approach towards reducing digital noise.
 
 # Excerpt
 ## Foundations
