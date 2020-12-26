@@ -5,7 +5,7 @@ author: juhi
 categories: [ books, excerpts, business, self-help, personal-development ]
 image: assets/images/managing_onself.jpg
 ---
-I do not remember reading this book at all, but hey, I found notes written for it in my docs, so I must've read them haha.
+I do not remember reading [this book](https://www.goodreads.com/book/show/2477223.Managing_Oneself) at all, but hey, I found notes written for it in my docs, so I must've read them haha.
 
 # Excerpt
 ## What are my Strengths?
