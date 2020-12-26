@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Principles"
+title:  "Principles: Life and Work"
 author: juhi
 categories: [ books, excerpts, self-help, leadership, business, philosophy ]
 image: assets/images/principles.jpg
