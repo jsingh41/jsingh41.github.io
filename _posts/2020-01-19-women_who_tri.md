@@ -6,6 +6,8 @@ categories: [ books, excerpts, inspirational, fitness]
 image: assets/images/10.jpg
 ---
 
+I chanced upon this [book](https://www.goodreads.com/book/show/31922028-women-who-tri) while browsing through the fitness section of the Mountain View Library. I loved every moment of this book.
+
 _“If you can’t fly, then run. If you can’t run, then walk. If you can’t walk, then crawl. But whatever you do, you have to keep moving” - Martin King Luther Jr._
 
 # Excerpt
