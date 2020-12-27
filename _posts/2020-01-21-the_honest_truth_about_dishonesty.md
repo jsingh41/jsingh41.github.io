@@ -3,7 +3,7 @@ layout: post
 title:  "The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves"
 author: juhi
 categories: [ books, excerpts, psychology, economics ]
-image: assets/images/honest_truth_about_dishonesty.jpg
+image: assets/images/honest_truth_about_dishonesty.jpeg
 ---
 
 Dan Ariely does it [again](https://www.goodreads.com/book/show/13426114-the-honest-truth-about-dishonesty). This funny behavioral economist. His previous book, Predictably Irrational was my first foray in behavior economics. In this book, he uses an experimental approach to prove how we are all casual liars.
