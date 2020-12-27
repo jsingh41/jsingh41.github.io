@@ -1,12 +1,14 @@
 ---
 layout: post
-title:  "Women Who Trie"
+title:  "Women Who Tri: A Reluctant Athlete's Journey Into the Heart of America's Newest Obsession"
 author: juhi
-categories: [ books, tutorial ]
+categories: [ books, excerpts, inspirational, fitness]
 image: assets/images/10.jpg
 ---
 
-“If you can’t fly, then run. If you can’t run, then walk. If you can’t walk, then crawl. But whatever you do, you have to keep moving” - Martin King Luther Jr.
+_“If you can’t fly, then run. If you can’t run, then walk. If you can’t walk, then crawl. But whatever you do, you have to keep moving” - Martin King Luther Jr._
+
+# Excerpt
  - I had as many doubts as all of us. Standing at the start line, we are all cowards
  - And then, I do the only thing that was left for me to do. I begin
  - Never underestimate the power of dreams and the influence of human spirit. The potential for greatness lives within all of us.
@@ -67,5 +69,5 @@ image: assets/images/10.jpg
  - It always seems impossible until it’s done
  - You have within you right now everything you will need to deal with whatever the world can throw at you
  - There is no passion to be found in settling for a life that is less than the one you are capable of living
- - Our deepest fear is not that we are inadequate. It is that we are powerful beyond measure. 
- - 
+
+_Our deepest fear is not that we are inadequate. It is that we are powerful beyond measure._
