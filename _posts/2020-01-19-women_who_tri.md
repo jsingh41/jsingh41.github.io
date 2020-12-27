@@ -3,7 +3,7 @@ layout: post
 title:  "Women Who Tri: A Reluctant Athlete's Journey Into the Heart of America's Newest Obsession"
 author: juhi
 categories: [ books, excerpts, inspirational, fitness]
-image: assets/images/10.jpg
+image: assets/images/women_who_tri.jpg
 ---
 
 I chanced upon this [book](https://www.goodreads.com/book/show/31922028-women-who-tri) while browsing through the fitness section of the Mountain View Library. I loved every moment of this book.
