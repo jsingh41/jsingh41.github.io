@@ -3,7 +3,7 @@ layout: post
 title:  "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
 author: juhi
 categories: [ books, excerpt, design, non-fiction, business ]
-image: assets/images/7.jpg
+image: assets/images/dont_make_me_think.jpeg
 ---
 
 This is an absolute gem of a [book](https://www.goodreads.com/book/show/18197267-don-t-make-me-think-revisited). In my personal opinion, this book will benefit anyone who works with a website - backend, frontend, designer, product manager, data scientist or even the general reader.
