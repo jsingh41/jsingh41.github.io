@@ -3,7 +3,7 @@ layout: post
 title:  "How To Talk"
 author: juhi
 categories: [self-help, philosophy ]
-image: assets/images/how_to_talk.jpg
+image: assets/images/how_to_talk.jpeg
 featured: true
 ---
 
