@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mountains and Me"
-author: Juhi
+author: juhi
 categories: [ outdoors ]
 image: assets/images/mountains_and_me.jpeg
 ---
