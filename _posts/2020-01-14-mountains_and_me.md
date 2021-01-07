@@ -3,7 +3,7 @@ layout: post
 title:  "Mountains and Me"
 author: Juhi
 categories: [ outdoors ]
-image: assets/images/eberhard-grossgasteiger-eZF9nZKBev8-unsplash.jpg
+image: assets/images/mountains_and_me.jpeg
 ---
 
 In October last year, I took a trip that changed me. Now I’m not one of those people who have life changing events every two-three months, but this one was special. Because that trip changed the way I think about what matters in life, what is important in my life. 
