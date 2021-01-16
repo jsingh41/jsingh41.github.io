@@ -6,14 +6,13 @@ categories: [ books, excerpts, non-fiction, autobiography, memoir, medicine, phi
 image: assets/images/when_breath_becomes_air.jpeg
 featured: true
 ---
-## **Excerpt**
 
 This is my third time reading the [book](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air), and it still left me in tears. You can’t put this book down before finishing it. 
 If you are someone like me, single-mindedly trying to focus on the next big goal in life, this book is for you. 
 I had never stopped to question my own mortality, and figure out what really matters in life. Profoundly moving, highly recommended. 
 As Arun Varghese says in the foreward : "There was an honesty, a truth in the writing, that took my breath away."
 
-
+## **Excerpt**
 
 *   I was driven less by achievement than by trying to understand, in earnest: What makes human life meaningful? I still felt literature provided the best account of the life of the mind, while neuroscience laid down the most elegant rules of the brain.
 *   Throughout college, my monastic, scholarly study of human meaning would conflict with my urge to forge and strengthen the human relationships that formed that meaning. If the unexamined life was not worth living, was the unlived life worth examining?
