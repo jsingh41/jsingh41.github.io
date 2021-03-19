@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Paradox of Choice"
-author: Juhi
-categories: [ books, tutorial ]
-image: assets/images/joshua-coleman-_yVRLC75Ma8-unsplash.jpg
-caption: "Photo by JOSHUA COLEMAN on Unsplash"
+author: juhi
+categories: [ books ]
+image: paradox_of_choice.jpeg
 ---
 Paradox of Choice by Barry Schwartz, is a book about how the abundance of choice available to us today is more detrimental to our well being than liberating. We think more choice equals more freedom and more satisfaction, but is that really the case?
 
