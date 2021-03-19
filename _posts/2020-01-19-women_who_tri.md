@@ -23,7 +23,7 @@ _“If you can’t fly, then run. If you can’t run, then walk. If you can’t 
  - We cannot become what we want to be by remaining who we are
  - We lose ourselves in the things we love. We find ourselves there, too.
  - Squats are a form of torture designed by people who don’t need to do squats in the first place
- - In the hardest moments of a long race, the athlete’s entire conscious experience of reality boils down to a desire to continue pitted against the desire to quite. Nothing else remains.. The desire to continue versus the desire to quit - the athlete is this and this alone until he chooses one or the other. And then the choice is made and he briefly becomes either persevering or quitting until, after he has stopped at the finish line, or God forbid, short of it, the stripped-away layers are piled back on and he becomes his old self again. Only not quite. He is changed, for better, or for worse.
+ - In the hardest moments of a long race, the athlete’s entire conscious experience of reality boils down to a desire to continue pitted against the desire to quit. Nothing else remains.. The desire to continue versus the desire to quit - the athlete is this and this alone until he chooses one or the other. And then the choice is made and he briefly becomes either persevering or quitting until, after he has stopped at the finish line, or God forbid, short of it, the stripped-away layers are piled back on and he becomes his old self again. Only not quite. He is changed, for better, or for worse.
  - Ability is what you’re capable of doing. Motivation determines what you do. Attitude determines how well you do it.
  - Whatever you’re meant to do, do it. The conditions are always impossible.
  - I’m strong; I’m tough; I still wear my eyeliner
