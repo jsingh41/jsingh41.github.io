@@ -52,7 +52,7 @@ A common sense approach to web and mobile usability
         *   Highlight key terms
 *   **Why users like mindless choices**
 *   “It doesn’t matter how many times I have to click, as long as each click is a mindless, unambiguous choice”
-*   AS long as each click is painless and they have continued confidence that they’re on the right track. Three mindless, unambiguous clicks equal one click that requires thought.
+*   As long as each click is painless and they have continued confidence that they’re on the right track. Three mindless, unambiguous clicks equal one click that requires thought.
 *   **Omit needless words**
 *   The art of not writing for the web
 *   “Get rid of half the words on each page, then get rid of half of what’s left”
