@@ -4,7 +4,7 @@ title:  "How To Talk"
 author: juhi
 categories: [self-help, philosophy ]
 image: assets/images/how_to_talk.jpeg
-featured: true
+
 ---
 
 *   Transfer the idea from your mind to the listener’s mind.
