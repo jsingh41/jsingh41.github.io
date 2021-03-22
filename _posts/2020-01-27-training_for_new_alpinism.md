@@ -2,7 +2,7 @@
 layout: post
 title:  "Training For New Alpinism"
 author: juhi
-categories: [ outdoors, books, excerpts, mountaineering, climbing, fitness]
+categories: [ Book Reviews, Fitness]
 image: assets/images/training_for_new_alpinism.jpg
 description: "My review of the book Training For New Alpinism"
 
