@@ -2,7 +2,7 @@
 layout: post
 title:  "Principles: Life and Work"
 author: juhi
-categories: [ books, excerpts, self-help, leadership, business, philosophy ]
+categories: [ Book Reviews ]
 image: assets/images/principles.jpg
 
 ---
