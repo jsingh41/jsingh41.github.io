@@ -2,7 +2,7 @@
 layout: post
 title:  "The Righteous Mind: Why Good People Are Divided by Politics and Religion"
 author: juhi
-categories: [ books, excerpts, non-fiction, psychology, politics, philosophy]
+categories: [ Book Reviews ]
 image: assets/images/the_righteous_mind.jpeg
 
 ---
