@@ -4,7 +4,7 @@ title:  "The Righteous Mind: Why Good People Are Divided by Politics and Religio
 author: juhi
 categories: [ books, excerpts, non-fiction, psychology, politics, philosophy]
 image: assets/images/the_righteous_mind.jpeg
-featured: true
+
 ---
 Recent experiences at the end of 2020 had led me to question what I understand and grasp of being a liberal. I had never asked myself that if being a liberal is the most obvious thing to do and be, why is half of the US conservative? My interaction with people from the far-left brought some clarity as to why being a conservative has its own merits.  I picked up Jonathan Haidt’s The Righteous Mind. 
 
