@@ -2,7 +2,7 @@
 layout: post
 title:  "Leaders Eat Last"
 author: juhi
-categories: [ books ]
+categories: [ Book Reviews ]
 image: assets/images/7.jpg
 ---
 
