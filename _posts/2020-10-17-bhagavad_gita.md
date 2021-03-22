@@ -4,7 +4,6 @@ title:  "The Bhagavad Gita: A Biography"
 author: juhi
 categories: [ books, excerpts, religion, history, philosophy ]
 image: assets/images/bhagavad_gita.jpg
-featured: true
 ---
 
 I had binge watched [Mahabharat](https://www.hotstar.com/us/tv/mahabharat/435) a few months ago, and was surprised by Krishna's teachings. Intrigued, I wanted to read the Gita in detail, and chanced upon this [book](https://www.goodreads.com/book/show/21981616-the-bhagavad-gita). I wish I had the time to write in more depth, but here are the excerpts from the book.
