@@ -2,7 +2,7 @@
 layout: post
 title:  "How I Got into MIT"
 author: juhi
-categories: [ Miscellaneous, Data Science ]
+categories: [ Miscellaneous ]
 image: assets/images/7.jpg
 ---
 
