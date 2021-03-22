@@ -2,7 +2,7 @@
 layout: post
 title:  "The 4-Hour Workweek"
 author: juhi
-categories: [ books, excerpts, productivity, non-fiction, self-help]
+categories: [ Book Reviews]
 image: assets/images/women_who_tri.jpg
 ---
 I read this [book](https://www.goodreads.com/book/show/368593.The_4_Hour_Workweek) in my phase of going for "productivity hacks". Some aspects of the book are douchey, but if you eliminate the noise, there are a few advice that a reader can take to live a better life. 
