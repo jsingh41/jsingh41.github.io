@@ -5,7 +5,7 @@ author: juhi
 categories: [ outdoors, books, excerpts, mountaineering, climbing, fitness]
 image: assets/images/training_for_new_alpinism.jpg
 description: "My review of the book Training For New Alpinism"
-featured: true
+
 ---
 
 Can't recommend this [book](https://www.goodreads.com/book/show/18342422-training-for-the-new-alpinism) enough for an aspiring mountaineer.
