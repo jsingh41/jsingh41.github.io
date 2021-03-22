@@ -2,7 +2,7 @@
 layout: post
 title:  "Never Eat Alone"
 author: juhi
-categories: [ outdoors, books, excerpts, business, self-help]
+categories: [ Book Reviews]
 image: assets/images/never_eat_alone.jpg
 ---
 
