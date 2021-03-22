@@ -2,7 +2,7 @@
 layout: post
 title:  "The Bhagavad Gita: A Biography"
 author: juhi
-categories: [ books, excerpts, religion, history, philosophy ]
+categories: [ Book Reviews ]
 image: assets/images/bhagavad_gita.jpg
 ---
 
