@@ -2,7 +2,7 @@
 layout: post
 title:  "The Radium Girls: The Dark Story of America's Shining Women"
 author: juhi
-categories: [ books, excerpts, non-fiction, history]
+categories: [ Book Reviews]
 image: assets/images/radium_girls.jpg
 ---
 
