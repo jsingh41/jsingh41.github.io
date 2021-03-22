@@ -2,7 +2,7 @@
 layout: post
 title:  "Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
 author: juhi
-categories: [ books, excerpt, design, non-fiction, business ]
+categories: [ Book Reviews ]
 image: assets/images/dont_make_me_think.jpeg
 ---
 
