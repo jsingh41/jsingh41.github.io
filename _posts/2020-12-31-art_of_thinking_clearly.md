@@ -2,7 +2,7 @@
 layout: post
 title:  "The Art of Thinking Clearly"
 author: juhi
-categories: [ books, excerpts, self-help, philosophy, non-fiction ]
+categories: [ Book Reviews ]
 image: assets/images/art_of_thinking_clearly.jpg
 ---
 Handy [book](https://www.goodreads.com/book/show/16248196-the-art-of-thinking-clearly) to remind yourself of all the biases that your mind comes across while having a thought. This book gives you an insight into how your own brain thinks and (mis)judges events around you. I also like the chapter names a lot (“Why you should visit cemeteries: Survivorship bias"). This book is more like an organized summary of books written by Dan Ariely, Daniel Kahneman and Malcolm Gladwell. There are some pieces that the writer doesn’t quite get right - like why the Black Scholes equation was responsible for the crash of 2008 (it wasn’t). The book doesn’t have a wow factor but is helpful in reminding you of all the biases that run through your head and will hopefully help you in making better decisions.
