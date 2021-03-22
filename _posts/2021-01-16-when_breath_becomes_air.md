@@ -2,7 +2,7 @@
 layout: post
 title:  "When Breath Becomes Air"
 author: juhi
-categories: [ books, excerpts, non-fiction, autobiography, memoir, medicine, philosophy]
+categories: [ Book Reviews ]
 image: assets/images/when_breath_becomes_air.jpeg
 
 ---
