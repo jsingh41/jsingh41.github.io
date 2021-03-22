@@ -39,6 +39,19 @@ post_class: post-template
 
                 <!-- Post Title -->
                 <h1 class="posttitle">{{ page.title }}</h1>
+                {% include reading-time.html %}
+                <!-- Post Tags -->
+                <div class="after-post-tags">
+                    <ul class="tags">
+                        {% assign sortedTags = page.tags | sort %}
+                        {% for tag in sortedTags %}
+                        <li>
+                            <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+                <!-- End Tags -->
 
             </div>
 
@@ -47,19 +60,6 @@ post_class: post-template
                 {% include adsense-under-header.html %}
             {% endif %}
             <!-- End Adsense -->
-            
-            <!-- Post Tags -->
-            <div class="after-post-tags">
-                <ul class="tags">
-                    {% assign sortedTags = page.tags | sort %}
-                    {% for tag in sortedTags %}
-                    <li>
-                        <a class="smoothscroll" href="{{site.baseurl}}/tags#{{ tag | replace: " ","-" }}">#{{ tag }}</a>
-                    </li>
-                    {% endfor %}
-                </ul>
-            </div>
-            <!-- End Tags -->
             
             <!-- Post Date -->
             <p>
