@@ -2,7 +2,7 @@
 layout: post
 title:  "Discipline Equals Freedom: Field Manual"
 author: juhi
-categories: [ books, excerpts, self-help, leadership, psychology  ]
+categories: [ Book Reviews  ]
 image: assets/images/discipline_equals_freedom.jpg
 ---
 [Discipline Equals Freedom](https://www.goodreads.com/book/show/34431560-discipline-equals-freedom) is a quick upper-fixer for motivation. This book is a quick read, relatively simply to understand.
