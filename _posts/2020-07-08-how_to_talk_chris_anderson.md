@@ -2,7 +2,7 @@
 layout: post
 title:  "How To Talk"
 author: juhi
-categories: [self-help, philosophy ]
+categories: [Book Reviews ]
 image: assets/images/how_to_talk.jpeg
 
 ---
