@@ -4,7 +4,6 @@ title:  "Great By Choice"
 author: juhi
 categories: [ books, tutorial ]
 image: assets/images/great_by_choice.png
-featured: true
 ---
 
 # Excerpt
