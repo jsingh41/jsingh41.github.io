@@ -2,7 +2,7 @@
 layout: post
 title:  "Digital Minimalism: Choosing a Focused Life in a Noisy World"
 author: juhi
-categories: [ books, excerpts, self-help, productivity, psychology ]
+categories: [ Book Reviews ]
 image: assets/images/digital_minimalism.jpg
 
 ---
