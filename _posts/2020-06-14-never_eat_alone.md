@@ -4,7 +4,6 @@ title:  "Never Eat Alone"
 author: juhi
 categories: [ outdoors, books, excerpts, business, self-help]
 image: assets/images/never_eat_alone.jpg
-featured: true
 ---
 
 For all my VC friends out there, this is a [great read](https://www.goodreads.com/book/show/84699.Never_Eat_Alone) ;)
