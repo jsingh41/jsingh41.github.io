@@ -4,7 +4,7 @@ title:  "Digital Minimalism: Choosing a Focused Life in a Noisy World"
 author: juhi
 categories: [ books, excerpts, self-help, productivity, psychology ]
 image: assets/images/digital_minimalism.jpg
-featured: true
+
 ---
 
 I am a huge fan of Cal Newport, and this was the [third book](https://www.goodreads.com/book/show/40672036-digital-minimalism) that I read (after Deep Work and So Good They Can't Ignore You). What I like about this book is the prescriptive approach towards reducing digital noise.
