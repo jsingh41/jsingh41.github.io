@@ -2,7 +2,7 @@
 layout: post
 title:  "Women Who Tri: A Reluctant Athlete's Journey Into the Heart of America's Newest Obsession"
 author: juhi
-categories: [ books, excerpts, inspirational, fitness]
+categories: [ Book Reviews]
 image: assets/images/women_who_tri.jpg
 ---
 
