@@ -4,7 +4,7 @@ title:  "When Breath Becomes Air"
 author: juhi
 categories: [ books, excerpts, non-fiction, autobiography, memoir, medicine, philosophy]
 image: assets/images/when_breath_becomes_air.jpeg
-featured: true
+
 ---
 
 This is my third time reading the [book](https://www.goodreads.com/book/show/25899336-when-breath-becomes-air), and it still left me in tears. You can’t put this book down before finishing it. 
