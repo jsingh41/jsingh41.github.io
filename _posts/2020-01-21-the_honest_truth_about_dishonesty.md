@@ -2,7 +2,7 @@
 layout: post
 title:  "The Honest Truth About Dishonesty: How We Lie to Everyone - Especially Ourselves"
 author: juhi
-categories: [ books, excerpts, psychology, economics ]
+categories: [ Book Reviews ]
 image: assets/images/honest_truth_about_dishonesty.jpeg
 ---
 
