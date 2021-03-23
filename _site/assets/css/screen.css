@@ -305,7 +305,7 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: Arial;
+    font-family: "Open Sans";
 }
 
 .mainheading h1.posttitle {
@@ -330,7 +330,7 @@ span.post-read-more a:hover {
 }
 
 .article-post {
-    font-family: Arial;
+    font-family: "Open Sans";
     font-size: 1.1rem;
     line-height: 1.84;
     color: rgba(0, 0, 0, .8);
@@ -685,7 +685,7 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+    font-family: -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", "Open Sans", sans-serif;
 }
 
 .article-post .h1,
