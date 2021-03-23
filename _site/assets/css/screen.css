@@ -143,8 +143,8 @@ section.recent-posts {
 .listfeaturedtag h2.card-title,
 .listrecent h2.card-title {
     font-size: 1.3rem;
-    font-weight: 700;
-    line-height: 1.25;
+    font-weight: 500;
+    line-height: 1.1;
 }
 
 .listfeaturedtag h4.card-text,
