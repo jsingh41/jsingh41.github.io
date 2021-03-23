@@ -305,11 +305,11 @@ span.post-read-more a:hover {
 }
 
 .mainheading h1.sitetitle {
-    font-family: "Open Sans";
+    font-family: sans-serif;
 }
 
 .mainheading h1.posttitle {
-    font-weight: 700;
+    font-weight: 500;
     margin-bottom: 1rem;
 }
 
