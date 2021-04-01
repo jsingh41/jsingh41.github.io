@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  "Book Summary and Review : The Paradox of Choice – Why More Is Less"
+title:  "Book Summary and Review : The Paradox of Choice"
 author: juhi
 categories: [ Book Summaries and Reviews ]
 image: assets/images/the_paradox_of_choice.jpg
 
 ---
-
-<!-- Output copied to clipboard! -->
-
-
 > _Knowing what’s good enough requires knowing yourself and what you care about. What we don’t realize is that the very option of being allowed to change our minds seems to increase the chances that we will change our minds._
 
 
