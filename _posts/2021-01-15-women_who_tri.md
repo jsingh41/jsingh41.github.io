@@ -3,7 +3,8 @@ layout: post
 title:  "Book Summary and Review : Women Who Tri"
 author: juhi
 categories: [ Book Summaries and Reviews]
-image: assets/images/women_who_tri.jpg
+image: assets/images/women_who_tri.png
+
 ---
 
 > _“If you can’t fly, then run. If you can’t run, then walk. If you can’t walk, then crawl. But whatever you do, you have to keep moving” - Martin King Luther Jr_
