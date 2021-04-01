@@ -3,6 +3,7 @@ layout: post
 title:  "Book Summary and Review : The Paradox of Choice – Why More Is Less"
 author: juhi
 categories: [ Book Summaries and Reviews ]
+image: assets/images/the_paradox_of_choice.jpg
 
 ---
 
