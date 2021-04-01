@@ -45,7 +45,7 @@ Is sifting through 50 different varieties of sunglasses really a good use of my 
 
 Would we be better off if we embraced certain voluntary constraints on our freedom of choice, instead of rebelling against it? Perhaps. We would be better off seeking what is good enough instead of seeking the best . The number 1 reason for sadness is hope. We would be better off if some of the decisions we made were irreversible.
 
-Part II : How We Choose
+#### Part II : How We Choose
 
 Most decision making will involve these steps:
 
@@ -55,11 +55,11 @@ Most decision making will involve these steps:
 *   Array the options 
 *   Evaluate how likely each of the option is to meet your goals
 
-Maximizers vs. Satisficers
+#### Maximizers vs. Satisficers
 
 Maximizers engage in more product comparisons than satisficers, both before and after they make purchasing decisions. Maximizers take longer than satisficers to decide on a purchase. Maximizers spend more time than satisficers comparing their purchasing decisions to decisions of others. They are more likely to experience regret after a purchase, spend time thinking about hypothetical alternatives to the purchase they’ve made, and less positive about their decisions. An important question that the author raises is: Does choice create maximizers?
 
-Part III : Why We Suffer 
+#### Part III : Why We Suffer 
 
 Freedom to choose has expressive value - Choice is what enables us to tell the world who we are and what we care about. **Every choice we make is a testament** to our autonomy, and to our self-determination. We express ourselves, either consciously or subconsciously in the clothes we wear, food we eat, hobbies we pursue - each of these choices have an expressive function, rather than a practical aspect.
 
@@ -67,7 +67,7 @@ Animals learn that being exposed to inescapable shocks that nothing they did mad
 
 In the context of discussing choice and autonomy, it is interesting to note that in many ways, **social ties actually decrease freedom, choice and autonomy**. Marriage is commitment to a particular person that curtails freedom of sexual and emotional partners. And serious friendship imposes a lasting hold on you. In spite of this, it is sometimes helpful to accept a reduction in available choices to maximize long term benefits of committing to an endeavor and sticking to it. Think long term investments, for example.
 
-Part IV : What We Can Do
+#### Part IV : What We Can Do
 
 **Commit to irreversible decisions**. A concept that you live by and follow and never break under any circumstances. Always putting on a seat belt, not cheating on your partner. **Following rules eliminates troublesome choices in your life**. Having the discipline to live by the rules you make for yourself is the mark of a conscientious  person. 
 
