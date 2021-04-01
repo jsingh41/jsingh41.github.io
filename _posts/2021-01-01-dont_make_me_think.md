@@ -52,11 +52,9 @@ image: assets/images/dont_make_me_think.jpeg
 
 #### Create a visual hierarchy, with three traits:
 
-
-
-    *   The more important something is, the more prominent it is
-    *   Things that are related logically are also related visually. Things are nested visually to show what’s part of what.
-    *   Stick to conventions unless you know you have a better idea and everyone you show it to agrees
+ *   The more important something is, the more prominent it is
+ *   Things that are related logically are also related visually. Things are nested visually to show what’s part of what.
+ *   Stick to conventions unless you know you have a better idea and everyone you show it to agrees
 
 
 #### Krug’s second law of usability: Users like mindless choices
