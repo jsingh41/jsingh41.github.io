@@ -2,5 +2,5 @@
 {{ content | number_of_words | minus: 180 }}
 {% endcapture %}
 {% unless words contains '-' %}
-{{ words | plus: 200 | divided_by: 150 | append: ' minute read • ' }}
+{{ words | plus: 201 | divided_by: 200 | append: ' minute read • ' }}
 {% endunless %}
