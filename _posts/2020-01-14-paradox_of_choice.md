@@ -31,7 +31,7 @@ image: assets/images/the_paradox_of_choice.jpg
 *   **Maximizers** are people who seek the best possible option when asked to make a choice. Maximizers always second guess their choices, wondering if they passed on a better option, and are generally anxious and miserable about their choices.
 *   **Satisficers** are people who figure out what are the basic requirements that they want fulfilled, and seek whatever is good enough. **It is better to be a satisficer than a maximizer** as satisficers are happier people.
 *   Sometimes, it would be better off to accept certain voluntary constraints on our freedom of choice for long-term happiness. **We would be better off if some choices that we make are irreversible**. Knowing that you’ve made a choice that you will not reverse allows you to pour your energy into improving the relationship that you have rather than constantly second-guessing it.
-*   **When in doubt, leave it to the experts. **
+*   **When in doubt, leave it to the experts.**
 
 
 ## Summary
