@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Book Summary and Review: Don't Make Me Think, Revisited: A Common Sense Approach to Web Usability"
+title:  "Book Summary and Review: Don't Make Me Think"
 author: juhi
 categories: [ Book Summaries and Reviews ]
 image: assets/images/dont_make_me_think.jpeg
