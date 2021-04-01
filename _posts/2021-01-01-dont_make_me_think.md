@@ -11,12 +11,12 @@ image: assets/images/dont_make_me_think.jpeg
 
 ## Premise
 
-[Don’t Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) by [Steve Krug](https://sensible.com/) is a classic book on website design and usability. The premise of the book is that a good website should let the user understand and navigate the website **as** easily as possible, so they can accomplish their task at hand with the least amount of cognitive load. The author also talks about how people really use websites, some of the common pitfalls in designing websites, and the principles that help make a website elegant and accessible. 
+[Don’t Make Me Think](https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) by [Steve Krug](https://sensible.com/) is a classic book on website design and usability. The premise of the book is that a good website should let the user understand and navigate the website as easily as possible, so they can accomplish their task at hand with the least amount of cognitive load. The author also talks about how people really use websites, some of the common pitfalls in designing websites, and the principles that help make a website elegant and accessible. 
 
 
 ## About the Author
 
-[Steve Krug](https://sensible.com/) is a usability/UX consultant best known for the author of Don’t Make Me Think. He also consults through his firm, Advanced Common Sense.
+[Steve Krug](https://sensible.com/) is a UX consultant best known for the author of Don’t Make Me Think. He also consults through his firm, Advanced Common Sense.
 
 
 ## The Big Ideas
