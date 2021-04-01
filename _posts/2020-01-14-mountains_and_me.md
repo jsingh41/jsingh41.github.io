@@ -1,6 +1,5 @@
 ---
 layout: post
-title:  "Mountains and Me"
 author: juhi
 categories: [ Adventures ]
 image: assets/images/mountains_and_me.jpeg
