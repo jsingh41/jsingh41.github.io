@@ -331,8 +331,8 @@ span.post-read-more a:hover {
 
 .article-post {
     font-family: "Open Sans";
-    font-size: 12px;
-    line-height: 1.1;
+    font-size: 1rem;
+    line-height: 1.5;
     color: rgba(0, 0, 0, .8);
 }
 
