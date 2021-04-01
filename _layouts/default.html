@@ -66,13 +66,12 @@ ga('send', 'pageview');
                 {% if page.url == "/" %}
                 <li class="nav-item active">
                 {% else %}
-                 <!-- About -->
                 <li class="nav-item">
+                {% endif %}
+                 <!-- About -->
                 <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
                 <!-- Categories -->
-                <li class="nav-item">
-                {% endif %}
                 <a class="nav-link" href="{{ site.baseurl }}/categories">Categories</a>
                 </li>
 
