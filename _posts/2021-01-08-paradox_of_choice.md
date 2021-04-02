@@ -6,7 +6,7 @@ categories: [ Book Summaries and Reviews ]
 image: assets/images/the_paradox_of_choice.jpg
 
 ---
-> _Knowing what’s good enough requires knowing yourself and what you care about. What we don’t realize is that the very option of being allowed to change our minds seems to increase the chances that we will change our minds._
+> _Knowing what’s good enough requires knowing yourself and what you care about. The very option of being allowed to change our minds seems to increase the chances that we will change our minds._
 
 
 ## Premise
