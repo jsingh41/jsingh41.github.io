@@ -7,7 +7,7 @@ image: assets/images/women_who_tri.png
 
 ---
 
-> _“If you can’t fly, then run. If you can’t run, then walk. If you can’t walk, then crawl. But whatever you do, you have to keep moving” - Martin King Luther Jr_
+> _“If you can’t fly, then run. If you can’t run, then walk. If you can’t walk, then crawl. But whatever you do, you have to keep moving”_
 
 
 ## Premise
