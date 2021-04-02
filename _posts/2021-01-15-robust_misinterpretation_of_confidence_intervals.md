@@ -7,7 +7,7 @@ categories: [ Paper Summaries ]
 ---
 
 
-> Rink Hoekstra | Richard D. Morey | Jeffrey N. Rouder | Eric-Jan Wagenmakers
+> Rink Hoekstra • Richard D. Morey • Jeffrey N. Rouder • Eric-Jan Wagenmakers
 
 
 ## Premise
