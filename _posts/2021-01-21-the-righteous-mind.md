@@ -7,7 +7,7 @@ image: assets/images/the_righteous_mind.jpeg
 
 ---
 
->I have striven not to laugh at human actions, not to weep at them, not to hate them, but to understand them
+>I have striven not to laugh at human actions, not to weep at them, not to hate them, but to understand them.
 
 
 ## Premise
@@ -16,7 +16,7 @@ image: assets/images/the_righteous_mind.jpeg
 
 About the Author
 
-Jonathan Haidt is a social psychologist and professor at NYU’s Stern School of Business. He has written several books on the psychology of morals and emotions, such as [The Happiness Hypothesis](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020), [The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777), [Can't We All Disagree More Constructively?](https://www.amazon.com/Cant-All-Disagree-More-Constructively-ebook/dp/B01KS1HLPC), [The Coddling of the American Mind](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224919) and [Why Do They Vote That Way?](https://www.amazon.com/Why-They-Vote-That-Way-ebook/dp/B07GVQ3KGD).
+Jonathan Haidt is a social psychologist and professor at NYU’s Stern School of Business. He has written several books on the psychology of morals and emotions, such as [The Happiness Hypothesis](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020), [The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777), [Can't We All Disagree More Constructively?](https://www.amazon.com/Cant-All-Disagree-More-Constructively-ebook/dp/B01KS1HLPC), [The Coddling of the American Mind](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224919) and [Why Do They Vote That Way?](https://www.amazon.com/Why-They-Vote-That-Way-ebook/dp/B07GVQ3KGD)
 
 
 ## The Big Ideas
@@ -26,7 +26,6 @@ Jonathan Haidt is a social psychologist and professor at NYU’s Stern School of
 *   The human mind is **intrinsically moral**, moralistic, judgemental and critical, and is **designed to be moral** just the way it is designed to learn language or  music. 
 *   Morality is one of the extraordinary human capacities that made civilization possible, and our complex moral psychology has helped us burst out from being hunter-gatherers into the delights, comforts and peacefulness of modern society. Our righteous mind made it possible for humans - and no other animals, to produce large cooperative groups without a glue of kinship, but it also guarantees that **we will always bear the curse of moralistic strife**.
 *   Moral intuitions arise **automatically** and almost instantaneously, long **before moral reasoning** has a chance to get started.
-*   
 
 
 ## Summary
