@@ -106,7 +106,7 @@ How do children come to understand what’s right and wrong?
 *   The riders are the controlled processes, including “reasoning-why”. Reasoning came way later, when humans evolved the capacity for language and reasoning. But the brain did not rewire itself to hand the reins to the reasoning part of the brain. 
 *   The rider is good at fabricating post hoc explanations for whatever the elephant has done. 
 
-_> _Once human beings developed language and began to use it to gossip about each other, it became extremely valuable for elephants to carry around on their backs a full-time public relations firm
+> Once human beings developed language and began to use it to gossip about each other, it became extremely valuable for elephants to carry around on their backs a full-time public relations firm
 
 
 #### Part II : There’s more to morality than harm and fairness
