@@ -191,8 +191,6 @@ The book suffers from the same dilemma that I find myself in a lot of times -- I
 *   Empathize more, rationalize less.
 
 
-## Related Books
-
 
 ## Reading Tips
 
