@@ -7,7 +7,7 @@ image: assets/images/the_righteous_mind.jpeg
 
 ---
 
-_>I have striven not to laugh at human actions, not to weep at them, not to hate them, but to understand them_
+_> I have striven not to laugh at human actions, not to weep at them, not to hate them, but to understand them_
 
 
 ## Premise
