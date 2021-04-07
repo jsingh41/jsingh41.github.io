@@ -14,7 +14,7 @@ image: assets/images/the_righteous_mind.jpeg
 
 [The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777) by [Jonathan Haidt](https://en.wikipedia.org/wiki/Jonathan_Haidt) is a book on human human morality. In this book, the author talks about how we divide ourselves into tribes, and how those tribes consist of like-minded people which we use to validate our intuitive predispositions. The author hopes to have given you a new way to think about two of the most important, vexing, and divisive topics in human life: politics and religion, and to find a way for each side to at least understand the other's perspective.
 
-About the Author
+### About the Author
 
 Jonathan Haidt is a social psychologist and professor at NYU’s Stern School of Business. He has written several books on the psychology of morals and emotions, such as [The Happiness Hypothesis](https://www.amazon.com/Happiness-Hypothesis-Finding-Modern-Ancient/dp/0465028020), [The Righteous Mind](https://www.amazon.com/Righteous-Mind-Divided-Politics-Religion/dp/0307455777), [Can't We All Disagree More Constructively?](https://www.amazon.com/Cant-All-Disagree-More-Constructively-ebook/dp/B01KS1HLPC), [The Coddling of the American Mind](https://www.amazon.com/Coddling-American-Mind-Intentions-Generation/dp/0735224919) and [Why Do They Vote That Way?](https://www.amazon.com/Why-They-Vote-That-Way-ebook/dp/B07GVQ3KGD). He is also said to be a part of the [Intellectual Dark Web](https://en.wikipedia.org/wiki/Intellectual_dark_web).
 
