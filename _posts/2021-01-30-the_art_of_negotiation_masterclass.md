@@ -3,7 +3,7 @@ layout: post
 title:  "MasterClass Summary : The Art of Negotiation"
 author: juhi
 categories: [ Summaries and Reviews]
-image: assets/images/the_righteous_mind.jpeg
+image: assets/images/the_art_of_negotiation_masterclass.jpeg
 
 ---
 
