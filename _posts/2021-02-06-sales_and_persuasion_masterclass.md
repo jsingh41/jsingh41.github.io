@@ -3,7 +3,7 @@ layout: post
 title:  "MasterClass Summary : Sales and Persuasion"
 author: juhi
 categories: [ Summaries and Reviews]
-image: assets/images/sales_and_persuasion.jpeg
+image: assets/images/sales_and_persuasion_masterclass.jpeg
 
 ---
 
